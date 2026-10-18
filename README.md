@@ -1,2 +1,2 @@
-# igualada-lleida-DeCA
+# SODICADA-DeCA
 DOC DECA
